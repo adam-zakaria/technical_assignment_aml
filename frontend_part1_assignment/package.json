@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "frontend_part1_assignment",
+  "description": "`python -m pip install -r requirements.txt`",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

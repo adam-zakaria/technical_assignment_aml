@@ -6,6 +6,16 @@ Below are some notes on the technical assignment.
 
 In summary, I’ve fully completed Front-end UI assignment part 1, and partially completed the others to different extents. Please see this email attachment for demos.
 
+In summary, I’ve fully completed Front-end UI assignment part 1, and partially completed the others to different extents. Below are links to two demos on Google Drive and see ./Front-end_UI_assignment_part1.pdf for three mockups.
+
+
+[Docker Assignment](https://drive.google.com/file/d/1xI-XbWBLf4yb9eiGco513mcit_SXI12X/view?usp=drive_web)
+
+[Frontend Part 1 Assignment](https://drive.google.com/file/d/1Kt5Enx1Qm13ZRxG6iI-L3mTMWEErx9dp/view?usp=drive_web)
+
+[Frontend Part 2 Assignment](https://drive.google.com/file/d/1IuHP5p0ZXOE6p8TjqF5CHeTArNTpm8G4/view?usp=drive_link)
+
+ 
 # Docker Assignment
 The multi-container docker network works. See the attached demo for `docker-compose build`, `docker-compose up`, and then a ping from one container to the other. 
 

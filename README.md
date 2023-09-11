@@ -1,3 +1,1 @@
-# Run
-`docker-compose build`
-`docker-compose up`
+Here is a copy of the email sent to the recruiter. Please see the email for the demo attachments.
